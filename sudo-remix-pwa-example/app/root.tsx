@@ -61,7 +61,6 @@ export default function App() {
         <Meta /> <Links /> 
       </head> 
       <body>
-         
         <Outlet /> <ScrollRestoration /> <Scripts /> <LiveReload /> 
       </body> 
     </html>
